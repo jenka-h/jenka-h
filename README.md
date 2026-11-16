@@ -2,6 +2,8 @@
 
 # Hi there, I'm Jenka 👋
 
+<img src="./assets/izuku.gif" width="400" alt="Izuku" />
+
 **Student at Bandung Institute of Technology (ITB)**  
 Building systems software, distributed infrastructure, and developer tools.
 
