@@ -54,6 +54,6 @@ Building systems software, distributed infrastructure, and developer tools.
 ### GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jenka-h&show_icons=true&theme=tokyonight&hide_border=true" alt="jenka-h's GitHub stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenka-h&layout=compact&theme=tokyonight&hide_border=true" alt="jenka-h's top languages" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api?username=jenka-h&show_icons=true&theme=tokyonight&hide_border=true" alt="jenka-h's GitHub stats" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jenka-h&layout=compact&theme=tokyonight&hide_border=true" alt="jenka-h's top languages" />
 </div>
