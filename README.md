@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Jenka 👋
-
 <img src="./assets/izuku.gif" width="400" alt="Izuku" />
+
+# Hi there, I'm Jenka 👋
 
 **Student at Bandung Institute of Technology (ITB)**  
 Building systems software, distributed infrastructure, and developer tools.
@@ -16,9 +16,8 @@ Building systems software, distributed infrastructure, and developer tools.
 
 ### About Me
 
-- 🎓 Studying at **Bandung Institute of Technology (ITB)**
-- ⚙️ Interested in **systems programming**, **Linux & eBPF**, **networking**, **distributed systems**, and **compilers / binary analysis**
-- 🌐 Portfolio & writings at **[jenka.tech](https://jenka.tech)**
+- ⚙️ Interested in **systems programming**, **Linux & eBPF**, **networking**, **distributed systems**
+- 🌐 Portfolio at **[jenka.tech](https://jenka.tech)**
 - 📫 Reach me at **[jenniferkhang07@gmail.com](mailto:jenniferkhang07@gmail.com)**
 
 ---
